@@ -1,5 +1,8 @@
 package purger;
 
+// https://github.com/CubeHunt3R/Paletti23
+// git@github.com:CubeHunt3R/Paletti23.git
+
 public class Test2 {
 
 	public static void main(String[] args) {
